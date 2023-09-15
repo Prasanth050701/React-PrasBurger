@@ -1,0 +1,36 @@
+#about{
+    margin-top: 100px;
+}
+#about h1{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+    border-bottom: 2px solid #ffc800;
+    text-shadow: 1px 1px 1px black;
+}
+#about h2{
+    font-weight: bold;
+    font-family: 'Dancing Script', cursive;
+    border-bottom: 2px solid #ffc800;
+    text-shadow: 1px 1px 1px black;
+}
+#about p{
+    font-family: 'Roboto Slab', serif;
+}
+#readmorebtn button{
+    width: 200px;
+    height: 32px;
+    background: transparent;
+    border: 2px solid #ffc800;
+    color: #ffc800;
+    font-weight: bold;
+    letter-spacing: 3px;
+    transition: 0.5s ease;
+}
+#about .card{
+    background-color: #ffc800;
+}
+#readmorebtn button:hover{
+    background-color: #ffc800;
+    color: white;
+}

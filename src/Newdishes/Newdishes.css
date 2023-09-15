@@ -1,0 +1,35 @@
+.about {
+    text-align: center;
+    padding: 40px 0;
+  }
+  
+  .about h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .card-container {
+    display: flex;
+
+    justify-content: center;
+  }
+  
+  .card {
+    width: 250px;
+    margin: 15px;
+  }
+  
+  .card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .card-body {
+    padding: 10px;
+  }
+  
+  .card-title1 {
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  
